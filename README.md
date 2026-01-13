@@ -1,7 +1,5 @@
 # KVM_Spin_Ups
 
-![Project Banner](https://github.com/AhmadMWaddah/KVM_Spin_Ups/blob/master/Thumbnails/KVM_Spin_Ups_Thumbnail_01.png)
-
 > **Automated Infrastructure as Code (IaC) for KVM Virtual Machines**
 > *Zero-to-VM in minutes with automated provisioning and configuration*
 
@@ -10,6 +8,8 @@
 [![KVM](https://img.shields.io/badge/Virtualization-KVM-red.svg)](https://www.linux-kvm.org/)
 [![Bash](https://img.shields.io/badge/Language-Bash-4EAA25.svg)](https://www.gnu.org/software/bash/)
 [![DevOps](https://img.shields.io/badge/DevOps-Ready-0059B2.svg)](https://devops.com)
+
+![Project Banner](https://github.com/AhmadMWaddah/KVM_Spin_Ups/blob/master/Thumbnails/KVM_Spin_Ups_Thumbnail_01.png)
 
 ---
 
