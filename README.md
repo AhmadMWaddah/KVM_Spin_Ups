@@ -1,4 +1,4 @@
-!(KVM_Spin_Ups_Thumbnail_01)[https://github.com/AhmadMWaddah/KVM_Spin_Ups/blob/master/Thumbnails/KVM_Spin_Ups_Thumbnail_01.png]
+!([VM_Spin_Ups_Thumbnail_01](https://github.com/AhmadMWaddah/KVM_Spin_Ups/blob/master/Thumbnails/KVM_Spin_Ups_Thumbnail_01.png)
 
 # KVM_Spin_Ups
 
