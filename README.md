@@ -1,6 +1,6 @@
-!([VM_Spin_Ups_Thumbnail_01](https://github.com/AhmadMWaddah/KVM_Spin_Ups/blob/master/Thumbnails/KVM_Spin_Ups_Thumbnail_01.png)
-
 # KVM_Spin_Ups
+
+![Project Banner](https://github.com/AhmadMWaddah/KVM_Spin_Ups/blob/master/Thumbnails/KVM_Spin_Ups_Thumbnail_01.png)
 
 > **Automated Infrastructure as Code (IaC) for KVM Virtual Machines**
 > *Zero-to-VM in minutes with automated provisioning and configuration*
